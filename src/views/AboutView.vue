@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p> </p>
+    <h1>Это приложение созданно <br> для курсовой работы </h1>
   </div>
 </template>
